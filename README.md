@@ -81,11 +81,14 @@ I'm a dedicated and detail-oriented **Computer Science student (CGPA: 3.75)** wi
 
 ---
 
-### 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=minahilnadeem-13&show_icons=true&theme=default" alt="Minahil's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=minahilnadeem-13&show_icons=true&theme=tokyonight" alt="Minahil's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minahilnadeem-13&layout=compact&theme=tokyonight" alt="Minahil's Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=minahilnadeem-13&theme=tokyonight" alt="Minahil's GitHub Streak" />
 </p>
+
 
 ---
 
