@@ -65,9 +65,10 @@ Student Management System — Desktop application for managing student records.
 
 I believe in learning by building. Every repository reflects a step in my journey as a developer, from UI/UX design to AI-powered applications and mobile development.
 ## 📊 GitHub Stats
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=minahilnadeem-13&show_icons=true&theme=tokyonight)
+![Minahil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=minahilnadeem-13&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=minahilnadeem-13&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=minahilnadeem-13&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=minahilnadeem-13&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=minahilnadeem-13&theme=tokyonight&hide_border=true)
