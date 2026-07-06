@@ -1,105 +1,59 @@
-<h1 align="center">👋 Hello, I'm Minahil Nadeem</h1>
-<h3 align="center">Web Developer | Graphic Designer | Presentation Specialist</h3>
+# Hi, I'm Minahil Nadeem 👋
+
+Computer Science student with a strong interest in Human-Computer Interaction (HCI), mobile application development, and user-centered software design.
+
+I enjoy building applications that combine thoughtful design with practical engineering, with experience in Flutter, AI-powered solutions, and UI/UX design. My work focuses on creating intuitive digital experiences while continuously exploring emerging technologies in software engineering and artificial intelligence.
+
+Currently, I'm expanding my knowledge in computer vision, accessibility, and modern mobile development while preparing for graduate studies in Europe.
 
 ---
 
-<p align="center">
-🌍 Based in Multan, Pakistan & Available for Remote Work  
-📧 <a href="mailto:minahilholic@gmail.com">minahilholic@gmail.com</a> | 📞 +92 333 6999587  
-🔗 <a href="https://www.linkedin.com/in/minahil-nadeem-77392b269/">LinkedIn</a>
-</p>
+## Tech Stack
+
+**Languages**
+
+Dart • Python • C# • Java • JavaScript • PHP • SQL
+
+**Frameworks & Technologies**
+
+Flutter • ASP.NET • Firebase • MySQL • TensorFlow • MediaPipe • OpenCV • Scikit-learn
+
+**Design**
+
+Figma • Adobe Illustrator • Adobe Photoshop
+
+**Tools**
+
+Git • GitHub • Android Studio • Visual Studio • VS Code
 
 ---
 
-### 💡 About Me
+## Featured Projects
 
-I'm a dedicated and detail-oriented **Computer Science student (CGPA: 3.75)** with a strong passion for creating responsive web applications and visually compelling designs.
-
-- 👩‍💻 Skilled in front-end development and UI/UX principles  
-- 🎨 Experienced in delivering professional presentations and brand assets  
-- 💼 Actively seeking **remote internships** and **part-time opportunities** in tech and design  
-- 🌱 Always learning — currently diving deeper into **JavaScript** and modern web design
-
----
-
-### 🛠️ Skills Overview
-
-#### 💻 Web Development
-- HTML5, CSS3, JavaScript, Bootstrap
-- Basic PHP & MySQL
-- Responsive design & cross-browser compatibility
-
-#### 🎨 Design & Branding
-- Adobe Illustrator, Photoshop, Canva
-- UI/UX wireframes, logos, brand kits
-
-#### 📊 Presentation Design
-- PowerPoint, Google Slides, Canva
-- 20+ client-ready decks (educational & marketing)
-
-#### 🧠 Soft & Technical Skills
-- Version Control (Git & GitHub)
-- Team Collaboration & Client Communication
-- Time Management & Attention to Detail
+- SignLink – AI-powered Sign Language Recognition System
+- Flutter Shopping Cart Application
+- Used Car Price Prediction using Machine Learning
+- Coffee Ordering Mobile App (UI/UX)
+- Decision Making Mobile Application
+- Student Management System
 
 ---
 
-### 📚 Education
+## Current Focus
 
-**Bachelor of Science in Computer Science**  
-📍 National University of Modern Languages (NUML), Multan  
-📆 2022 – 2026 | 🎓 Current CGPA: **3.75/4.00**
-
----
-
-### 💼 Professional Experience
-
-**Web Developer – Remote (2024 – Present)**  
-*Freelance & Self Projects*  
-- Developed modern, responsive websites for local clients  
-- Created health info forms & booking systems using PHP + MySQL  
-- Focused on mobile-friendly UI and user experience
-
-**Graphic & Presentation Designer – Remote (2023 – Present)**  
-*Upwork / Fiverr*  
-- Designed logos, brand kits, and pitch decks for startups  
-- Delivered 20+ professional presentations with data visualizations
-
-**Coding Instructor – Remote (2024)**  
-*Codingal Platform*  
-- Taught HTML, CSS, JavaScript to school students  
-- Simplified web concepts for beginners in live sessions
+- Human-Computer Interaction (HCI)
+- Flutter Development
+- Artificial Intelligence
+- Computer Vision
+- Mobile Application Development
+- Open Source
 
 ---
 
-### 📂 Featured Projects
+## Connect
 
-- **Health Booking System** – PHP & MySQL  
-- **Branding Kit for Startups** – Illustrator & Canva  
-- **Dynamic Presentations** – PowerPoint & Google Slides  
-- **Portfolio Website** – In Progress
+📧 minahilholic@gmail.com
 
----
+💼 LinkedIn: www.linkedin.com/in/minahil-nadeem-77392b269
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=minahilnadeem-13&show_icons=true&theme=tokyonight" alt="Minahil's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minahilnadeem-13&layout=compact&theme=tokyonight" alt="Minahil's Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=minahilnadeem-13&theme=tokyonight" alt="Minahil's GitHub Streak" />
-</p>
-
-
----
-
-### 🤝 Let's Connect
-
-I’m always open to collaborating on exciting projects or joining remote teams in tech and design.
-
-- 📬 Email: [minahilholic@gmail.com](mailto:minahilholic@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/minahil-nadeem-77392b269](https://www.linkedin.com/in/minahil-nadeem-77392b269)
-
----
-
-_Thank you for visiting! If my profile aligns with your company’s needs, feel free to reach out._  
-⭐ *Don’t forget to star my repos if you find them helpful!*
+🎨 Behance:[ https://behance.net/your-profile](https://www.behance.net/minahilnadeem7/projects)
