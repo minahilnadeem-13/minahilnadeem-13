@@ -1,74 +1,54 @@
-# Hi, I'm Minahil Nadeem 👋
+# Minahil Nadeem
 
-Final-year Computer Science student passionate about Human–Computer Interaction (HCI), AI-powered applications, Flutter development, and user-centered software design.
+**UI/UX Designer · Frontend Developer · CS Graduate**
 
-I enjoy building applications that combine thoughtful design with practical engineering, with experience in Flutter, AI-powered solutions, and UI/UX design. My work focuses on creating intuitive digital experiences while continuously exploring emerging technologies in software engineering and artificial intelligence.
+I design user-centered digital experiences and build them into responsive, functional interfaces. With a Computer Science background from NUML Islamabad, I work across the full design-to-development workflow — from Figma wireframes to deployed websites.
 
-Currently, I'm expanding my knowledge in computer vision, accessibility, and modern mobile development while preparing for graduate studies in Europe.
+Currently open to **remote internships and junior roles** in UI/UX Design and Frontend Development.
 
 ---
 
-## Tech Stack
+## What I Work On
 
-**Languages**
+- Designing product interfaces in Figma — dashboards, mobile apps, landing pages
+- Building responsive websites with HTML, CSS, JavaScript, and React
+- Translating Figma designs into clean, functional frontend code
+- Brand identity design using Adobe Illustrator
 
-Dart • Python • C# • Java • JavaScript • PHP • SQL
+---
 
-**Frameworks & Technologies**
+## Selected Projects
 
-Flutter • ASP.NET • Firebase • MySQL • TensorFlow • MediaPipe • OpenCV • Scikit-learn
+| Project | Description | Stack | Links |
+|---|---|---|---|
+| **Diamond Admin Dashboard** | Full admin dashboard — designed in Figma, built in React | React, Vite, Recharts | [Repo](https://github.com/minahilnadeem-13/Diamond-Dasboard) |
+| **Coffee Shop Mobile App** | End-to-end iOS ordering UI — 7 flows, full visual identity | Figma | [Repo](https://github.com/minahilnadeem-13/coffee-shop-ui-case-study) |
+| **Her Boba** | Live client website — responsive, deployed on Netlify | HTML, CSS, JS | [Live](https://imaginative-gecko-a26f61.netlify.app) |
+| **Teado** | Live client website — responsive, deployed on Netlify | HTML, CSS, JS | [Live](https://vocal-stardustbebe18.netlify.app) |
+
+---
+
+## Skills
 
 **Design**
+Figma · UI/UX Design · Wireframing · Prototyping · Visual Design · Brand Identity · Adobe Illustrator · Photoshop
 
-Figma • Adobe Illustrator • Adobe Photoshop
+**Frontend**
+HTML · CSS · JavaScript · React · Bootstrap · Responsive Design
 
 **Tools**
-
-Git • GitHub • Android Studio • Visual Studio • VS Code
-
----
-
-## Featured Projects
-
-SignLink — AI-powered sign language recognition system using computer vision.
-
-Flutter Shopping Cart — E-commerce application demonstrating Provider state management.
-
-Coffee Ordering App — UI/UX case study and mobile application prototype.
-
-Used Car Price Prediction — Machine learning model for price estimation using regression techniques.
-
-Decision Making App — Mobile application that helps users make random decisions through interactive gestures.
-
-Student Management System — Desktop application for managing student records.
-
-## Current Focus
-
-- Human-Computer Interaction (HCI)
-- Flutter Development
-- Artificial Intelligence
-- Computer Vision
-- Mobile Application Development
-- Open Source
+Git · GitHub · VS Code · Canva · Netlify
 
 ---
 
-## Connect
+## Currently Exploring
 
-📧 minahilholic@gmail.com
+- React component architecture
+- CSS animations and micro-interactions
+- Accessibility best practices (WCAG)
 
-💼 LinkedIn:www.linkedin.com/in/minahil-nadeem-77392b269
+---
 
-🎨 Behance:https://www.behance.net/minahilnadeem7
+## Contact
 
-## 📈 GitHub Activity
-
-I believe in learning by building. Every repository reflects a step in my journey as a developer, from UI/UX design to AI-powered applications and mobile development.
-## 📊 GitHub Stats
-## 📊 GitHub Stats
-
-![Minahil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=minahilnadeem-13&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=minahilnadeem-13&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=minahilnadeem-13&theme=tokyonight&hide_border=true)
+[minahilholic@gmail.com](mailto:minahilholic@gmail.com) · [LinkedIn](https://www.linkedin.com/in/minahil-nadeem-77392b269) · [Behance](https://www.behance.net/minahilnadeem7)
